@@ -1,0 +1,21 @@
+
+body {
+   background-color: rgb(207, 204, 204); 
+   
+}
+
+fieldset {
+    background-color: white;
+    width:50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+#hobbies {
+    text-align: left;
+    
+}
+
+#hobbies div {
+    margin-left: 30%;
+}
